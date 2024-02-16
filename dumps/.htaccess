@@ -1,0 +1,5 @@
+#Options +Indexes
+#AuthType Basic
+#AuthName "Restricted Access"
+#AuthUserFile /home/dump_pass/dumppass
+#Require user dumpuser

@@ -1,0 +1,10 @@
+device_id,s2s_faulty_declared_date,s2s_date_of_receipt_of_meter_WH,s2s_date_of_dispatch_to_OEM_repair,s2s_date_of_receipt_of_refurbished,whm_vendor_manager_name,s2s_is_damage_accepted_state_warehouse,s2s_is_damage_accepted_admin_warehouse,s2s_supplier_status,s2s_supplier_approve_date,repaired_time,install_status,s2s_refurbished_meter_received_date,s2s_damaged_mark_in_system
+GP4448231,2022-12-15,2022-12-16,2022-12-17,2022-12-18,"VM SBPD",Yes,Yes,Approved,"2022-12-26 10:28:22","2022-12-26 10:29:53","Not Installed",,"2022-12-26 10:23:02"
+GP4448237,2022-12-15,2022-12-15,2022-12-15,2022-12-15,,Yes,Yes,Approved,"2023-01-04 10:32:56","2023-01-04 10:33:56","Not Installed",,"2023-01-04 10:15:56"
+GP4448235,2022-12-15,2022-12-15,2022-12-15,2022-12-15,,Yes,Yes,Approved,"2023-01-04 11:59:20","2023-01-04 12:02:29","Not Installed",,"2023-01-04 11:40:10"
+LT0001816,2022-12-15,2022-12-15,2022-12-15,2022-12-15,,Yes,Yes,Approved,"2023-01-04 02:11:32","2023-01-04 02:13:35","Not Installed",,"2023-01-04 13:34:00"
+LT0001817,2022-12-15,2022-12-15,2022-12-15,2022-12-15,,Yes,Yes,Approved,"2023-01-04 02:11:32","2023-01-04 02:13:35","Not Installed",,"2023-01-04 13:34:00"
+LT0001818,2022-12-15,2022-12-15,2022-12-15,2022-12-15,,Yes,Yes,Approved,"2023-01-04 02:11:32","2023-01-04 02:13:35","Not Installed",,"2023-01-04 13:34:00"
+LT0001819,2022-12-15,2022-12-15,2022-12-15,2022-12-15,,Yes,Yes,Approved,"2023-01-04 02:11:32","2023-01-04 02:13:35","Not Installed",,"2023-01-04 13:34:00"
+GP4448241,2022-12-15,2022-12-15,2022-12-15,2022-12-15,"VM SBPD",Yes,Yes,Approved,"2023-01-05 10:27:02","2023-01-05 10:27:53","Not Installed",,"2023-01-05 10:22:00"
+GP4448238,2022-12-15,2022-12-15,2022-12-15,2022-12-15,"VM SBPD",Yes,Yes,Approved,"2023-05-08 10:52:16",,"Not Installed",,"2023-05-08 10:40:48"
